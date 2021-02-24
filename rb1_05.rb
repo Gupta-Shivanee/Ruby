@@ -1,4 +1,2 @@
-array=[1 2 3]
-
-puts "#{array.map{|n| n*2}}"
-
+array = [1, 2, 3]
+puts "#{array.map { |n| n*2 }}"

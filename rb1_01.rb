@@ -1,3 +1,1 @@
-(1 .. 100).each do |i|
-puts i
-end
+(1 .. 100).each { |i| puts i }
