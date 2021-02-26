@@ -1,6 +1,6 @@
-ary1 = Array[1, 2, 3, 4]
-ary2 = Array[5, 6, 7, 8]
-ary3 = Array.new
+ary1 = [1, 2, 3, 4]
+ary2 = [5, 6, 7, 8]
+ary3 = []
 j = 0
 ary1.each do |i|
   ary3[j] = i
